@@ -9,6 +9,10 @@
  }
  h1{
      align-self: center;
+     font-size: 48px;;
+ }
+ p{
+     font-size: 20px;;
  }
  .grid-container{
      display: grid;
@@ -56,4 +60,3 @@
  form{
      align-self: center;
  } 
- 
